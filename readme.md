@@ -7,6 +7,6 @@ skrip ini berfungsi untuk mengekstrak teks dari file powerpoint ke pdf
 
 atau
 
-buka `[https://textex.streamlit.app/](https://haritsrs-text-extractor-app-fixh1t.streamlit.app/)`
+buka `https://haritsrs-text-extractor-app-fixh1t.streamlit.app/`
 
 # Versi 1.1
