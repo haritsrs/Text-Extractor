@@ -23,7 +23,6 @@ def extract_text_from_pdf(file):
         text_data.append(page.extract_text())
     return "\n".join(text_data)
 
-# Streamlit UI
 st.title("Ekstraktor Teks untuk File PowerPoint dan PDF")
 st.write("Dibuat oleh: Harits Raharjo Setiono")
 
@@ -43,4 +42,4 @@ if uploaded_file is not None:
   else:
     st.error("Jenis file tidak didukung. Silakan unggah file .pptx atau .pdf.")
 
-st.write("Versi 1.0")
+st.write("Versi 1.1")
